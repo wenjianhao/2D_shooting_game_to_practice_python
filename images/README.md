@@ -1,1 +1,1 @@
-***Images come from book 'python crash course'***
+***Images come from the book <<python crash course>>***
