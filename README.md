@@ -4,4 +4,4 @@ __Revision__ <br />
 - *Added the extra ability to move up and down.*
 
 __Usage__<br />
-- *Run 'python start_game.py' to play the game.*<br />
+- *Run 'start_game.py' to play the game.*<br />
